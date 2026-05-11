@@ -32,7 +32,8 @@ mvn spring-boot:run
 
 ## Screenshots
 
-(Add your screenshots here)
+
+
 
 ## Developed By
 Sruthi Shakhamuri
